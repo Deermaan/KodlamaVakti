@@ -1,0 +1,9 @@
+Kdv Tutari hesaplama
+Proje konusu
+Kullanıcıdan alınan tutarın KDV'li fiyatını ve KDV tutarını hesaplayıp ekrana bastıran kodu yazınız
+(Not KDVyi %18 olarak alın)
+
+Örnek Çıktı
+Tutar giriniz: 100
+KDV oranı %18
+KDV tutarı: 18.000
