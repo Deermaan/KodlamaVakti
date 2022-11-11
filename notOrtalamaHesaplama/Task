@@ -1,0 +1,12 @@
+Proje Konusu
+Fizik, Matematik, Türkçe, Kimya, Müzik, Tarih deslerinin sınav puanlarını kullanıcıdan alan
+ve bu derslerin ortalamalarını hesaplayıp ekrana bastıran kodu yazınız
+
+Örnek Çıktı
+Fizik notunuz : 70
+Matematik notnuz: 40
+Türkçe notunuz: 30
+Kimya notunuz: 100
+Müzik notunuz: 60
+Tarih notunuz: 80
+Ortalamanız: 63.0
