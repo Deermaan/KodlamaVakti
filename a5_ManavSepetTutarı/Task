@@ -1,0 +1,19 @@
+kullanıcıların manavsan almış oldukları ürünlerin kilogram değerine göre toplam tutarını ekrana yazdıran kodu yazınız
+
+ürün kg fiyatları
+
+salatalık: 3,14 tl
+elma: 4,11 tl
+kabak: 2.22 tl
+domates: 0.95 tl
+patlıcan: 7.00 tl
+
+
+Örnek Çıktı
+
+Salatalık kaç kilo? : 0
+elma kaç kilo? : 1
+kabak kaç kilo? : 2
+domates kaç kilo? : 2
+patlıcan kaç kilo? : 1
+toplam tutar: 17,45
